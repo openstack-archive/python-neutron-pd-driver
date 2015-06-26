@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = python_neutron_pd_driver
+omit = python_neutron_pd_driver/openstack/*
+
+[report]
+ignore-errors = True
