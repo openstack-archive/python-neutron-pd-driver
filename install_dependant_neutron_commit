@@ -1,0 +1,4 @@
+#! /bin/sh 
+
+cd .tox/$1/src/neutron
+git fetch https://review.openstack.org/openstack/neutron refs/changes/77/185977/12 && git checkout FETCH_HEAD
