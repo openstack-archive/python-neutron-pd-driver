@@ -1,0 +1,8 @@
+Code-Review+2: Sam Betts <sam@code-smash.net>
+Workflow+1: Armando Migliaccio <armamig@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 28 Oct 2016 07:47:24 +0000
+Reviewed-on: https://review.openstack.org/388919
+Project: openstack/python-neutron-pd-driver
+Branch: refs/heads/master
